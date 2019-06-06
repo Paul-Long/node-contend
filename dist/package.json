@@ -1,0 +1,23 @@
+{
+  "name": "node-contend",
+  "version": "1.0.0",
+  "description": "node contend client",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-Long/node-contend.git"
+  },
+  "keywords": [
+    "node",
+    "contend"
+  ],
+  "author": "Paul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paul-Long/node-contend/issues"
+  },
+  "homepage": "https://github.com/Paul-Long/node-contend#readme",
+  "engines": {
+    "node": ">=8"
+  }
+}
